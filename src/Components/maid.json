@@ -1,0 +1,36 @@
+{
+    "name": "Mary Johnson",
+    "age": 32,
+    "gender": "Female",
+    "nationality": "United States",
+    "contact": {
+      "phone": "123-456-7890",
+      "email": "mary.johnson@example.com"
+    },
+    "address": {
+      "street": "123 Main Street",
+      "city": "Anytown",
+      "state": "CA",
+      "postal_code": "12345",
+      "country": "United States"
+    },
+    "availability": {
+      "days": ["Monday", "Wednesday", "Friday"],
+      "hours_per_day": 6
+    },
+    "skills": ["cleaning", "laundry", "cooking"],
+    "languages_spoken": ["English", "Spanish"],
+    "experience_years": 8,
+    "references": [
+      {
+        "name": "John Smith",
+        "contact": "555-123-4567"
+      },
+      {
+        "name": "Emily Davis",
+        "contact": "555-987-6543"
+      }
+    ],
+    "salary_expectation": "$15 per hour",
+    "additional_info": "I'm very detail-oriented and reliable. I enjoy helping to create a clean and comfortable environment for families."
+  }
